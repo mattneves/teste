@@ -6,5 +6,6 @@ public class tretas {
 	public String endereco;
 	public int numero;
 	public String cidade;
+	public String CEP;
 
 }
