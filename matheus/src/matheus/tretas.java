@@ -4,5 +4,6 @@ public class tretas {
 	
 	public String nome;
 	public String endereco;
+	public int numero;
 
 }
