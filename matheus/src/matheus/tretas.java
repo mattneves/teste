@@ -8,5 +8,6 @@ public class tretas {
 	public String cidade;
 	public String CEP;
 	public String pais;
+	public String nomefantasia;
 
 }
